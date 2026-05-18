@@ -79,12 +79,12 @@ Pendekatan logika samar dalam pengambilan keputusan.
 ```bash
 SISTEM-PENDUKUNG-KEPUTUSAN-SPK/
 │
-├── Minggu 1 - Pengantar SPK/
-├── Minggu 2 - MCDM dan WSM WPM/
-├── Minggu 3 - AHP Benefit/
-├── Minggu 4 - AHP Cost/
-├── Minggu 6 - ROC dan EDAS/
-├── Minggu 7 - MARCOS/
-├── Minggu 9 - MEREC/
+├── Minggu 01 - Pengantar SPK/
+├── Minggu 02 - MCDM dan WSM WPM/
+├── Minggu 03 - AHP Benefit/
+├── Minggu 04 dan 05 - AHP Cost/
+├── Minggu 06 - ROC dan EDAS/
+├── Minggu 07 dan 08 - MARCOS/
+├── Minggu 09 - MEREC/
 ├── Minggu 10 - GDSS/
 └── Minggu 11 dan 12 - Fuzzy/
