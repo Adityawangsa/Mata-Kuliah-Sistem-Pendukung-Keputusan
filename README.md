@@ -1,76 +1,80 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Sistem%20Pendukung%20Keputusan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=D4%20Teknologi%20Informasi%20%7C%20POLINEMA&descAlignY=55&descSize=18"/>
+
 # 💡 Sistem Pendukung Keputusan (SPK)
 
-### 📚 Materi Perkuliahan D4 Teknologi Informasi  
-### 🏫 Politeknik Negeri Malang (POLINEMA)
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Materi+Perkuliahan+SPK+POLINEMA;Decision+Support+System+Learning+Repository;MCDM+%7C+AHP+%7C+MARCOS+%7C+Fuzzy;Academic+Repository+for+D4+IT+Students" alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+<br>
 
-![POLINEMA](https://img.shields.io/badge/Campus-POLINEMA-blue?style=for-the-badge)
-![Course](https://img.shields.io/badge/Course-SPK-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)
+![POLINEMA](https://img.shields.io/badge/Campus-POLINEMA-blue?style=for-the-badge&logo=google-scholar)
+![Course](https://img.shields.io/badge/Course-SPK-success?style=for-the-badge&logo=bookstack)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge&logo=github)
+![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge&logo=opensourceinitiative)
+
+<br><br>
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="280"/>
 
 </div>
 
 ---
 
-## ✨ Tentang Repository
+# ✨ Tentang Repository
 
 Repository ini berisi kumpulan materi mata kuliah **Sistem Pendukung Keputusan (SPK)** dari program studi **D4 Teknologi Informasi** di **Politeknik Negeri Malang (POLINEMA)**.
 
-Materi disusun berdasarkan topik dan pertemuan selama perkuliahan untuk membantu proses:
-
-- 📖 Belajar mandiri
-- 📝 Dokumentasi materi
-- 🎯 Persiapan tugas & ujian
-- 💻 Referensi implementasi metode SPK
+Repository dibuat sebagai media pembelajaran dan dokumentasi akademik untuk membantu mahasiswa memahami berbagai metode pengambilan keputusan secara terstruktur dan sistematis.
 
 ---
 
-# 📚 Daftar Materi
+# 🎯 Tujuan Repository
+
+- 📖 Media belajar mandiri mahasiswa
+- 📝 Dokumentasi materi perkuliahan
+- 💻 Referensi implementasi metode SPK
+- 🎯 Persiapan tugas dan evaluasi
+- 🚀 Pengembangan wawasan Decision Support System
+
+---
+
+# 🧠 Topik & Metode yang Dipelajari
 
 <div align="center">
 
-| Pertemuan | Topik | Metode |
+| 📅 Pertemuan | 📚 Topik | 🔬 Metode |
 | :--: | :-- | :-- |
-| 1 | Pengantar SPK | Dasar Sistem Pendukung Keputusan |
-| 2 | MCDM | WSM & WPM |
-| 3 | AHP Benefit | Analytical Hierarchy Process |
-| 4-5 | AHP Cost | Cost Criteria |
-| 6 | ROC & EDAS | Perangkingan Alternatif |
-| 7-8 | MARCOS | Compromise Solution |
-| 9 | MEREC | Removal Effects of Criteria |
+| 01 | Pengantar SPK | Dasar Sistem Pendukung Keputusan |
+| 02 | MCDM | WSM & WPM |
+| 03 | AHP Benefit | Analytical Hierarchy Process |
+| 04 - 05 | AHP Cost | Cost Criteria |
+| 06 | ROC & EDAS | Perangkingan Alternatif |
+| 07 - 08 | MARCOS | Compromise Solution |
+| 09 | MEREC | Removal Effects of Criteria |
 | 10 | GDSS | Group Decision Support System |
-| 11-12 | Fuzzy | Fuzzy Logic pada SPK |
+| 11 - 12 | Fuzzy | Fuzzy Logic pada SPK |
 
 </div>
 
 ---
 
-# 🧠 Metode yang Dipelajari
+# ⚡ Metode Populer dalam Repository
 
-## 🔹 AHP (Analytical Hierarchy Process)
-Metode pengambilan keputusan menggunakan pembobotan dan perbandingan berpasangan.
+<div align="center">
 
-## 🔹 WSM & WPM
-Metode perhitungan nilai alternatif berdasarkan bobot kriteria.
+| Metode | Deskripsi Singkat |
+|---|---|
+| 🔹 AHP | Pembobotan dengan perbandingan berpasangan |
+| 🔹 WSM | Penjumlahan terbobot |
+| 🔹 WPM | Perkalian terbobot |
+| 🔹 ROC | Pembobotan berdasarkan ranking |
+| 🔹 EDAS | Evaluasi berdasarkan rata-rata solusi |
+| 🔹 MARCOS | Solusi kompromi alternatif |
+| 🔹 MEREC | Penghapusan efek kriteria |
+| 🔹 Fuzzy | Pendekatan logika samar |
 
-## 🔹 ROC
-Metode pembobotan berdasarkan ranking prioritas.
-
-## 🔹 EDAS
-Evaluasi alternatif berdasarkan jarak rata-rata solusi.
-
-## 🔹 MARCOS
-Metode perangkingan alternatif berbasis solusi kompromi.
-
-## 🔹 MEREC
-Metode objektif berdasarkan pengaruh penghapusan kriteria.
-
-## 🔹 Fuzzy
-Pendekatan logika samar dalam pengambilan keputusan.
+</div>
 
 ---
 
