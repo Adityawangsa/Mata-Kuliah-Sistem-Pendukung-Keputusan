@@ -38,9 +38,9 @@ Materi disusun berdasarkan topik dan pertemuan selama perkuliahan untuk membantu
 | 1 | Pengantar SPK | Dasar Sistem Pendukung Keputusan |
 | 2 | MCDM | WSM & WPM |
 | 3 | AHP Benefit | Analytical Hierarchy Process |
-| 4 | AHP Cost | Cost Criteria |
+| 4-5 | AHP Cost | Cost Criteria |
 | 6 | ROC & EDAS | Perangkingan Alternatif |
-| 7 | MARCOS | Compromise Solution |
+| 7-8 | MARCOS | Compromise Solution |
 | 9 | MEREC | Removal Effects of Criteria |
 | 10 | GDSS | Group Decision Support System |
 | 11-12 | Fuzzy | Fuzzy Logic pada SPK |
