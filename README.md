@@ -1,51 +1,80 @@
-# Sistem Pendukung Keputusan (SPK)
+<div align="center">
+
+# 💡 Sistem Pendukung Keputusan (SPK)
+
+### 📚 Materi Perkuliahan D4 Teknologi Informasi  
+### 🏫 Politeknik Negeri Malang (POLINEMA)
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250"/>
+
+![POLINEMA](https://img.shields.io/badge/Campus-POLINEMA-blue?style=for-the-badge)
+![Course](https://img.shields.io/badge/Course-SPK-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-Educational-orange?style=for-the-badge)
+
+</div>
+
+---
+
+## ✨ Tentang Repository
 
 Repository ini berisi kumpulan materi mata kuliah **Sistem Pendukung Keputusan (SPK)** dari program studi **D4 Teknologi Informasi** di **Politeknik Negeri Malang (POLINEMA)**.
 
-Materi disusun berdasarkan pertemuan dan metode yang dipelajari selama perkuliahan, serta dapat digunakan sebagai bahan belajar, referensi, dan dokumentasi akademik.
+Materi disusun berdasarkan topik dan pertemuan selama perkuliahan untuk membantu proses:
+
+- 📖 Belajar mandiri
+- 📝 Dokumentasi materi
+- 🎯 Persiapan tugas & ujian
+- 💻 Referensi implementasi metode SPK
 
 ---
 
-## 📚 Daftar Materi
+# 📚 Daftar Materi
 
-### Minggu 1 — Pengantar SPK
-- Konsep dasar Sistem Pendukung Keputusan
-- Tujuan dan manfaat SPK
-- Komponen SPK
+<div align="center">
 
-### Minggu 2 — MCDM dan WSM/WPM
-- Multi Criteria Decision Making (MCDM)
-- Weighted Sum Model (WSM)
-- Weighted Product Model (WPM)
+| Pertemuan | Topik | Metode |
+| :--: | :-- | :-- |
+| 1 | Pengantar SPK | Dasar Sistem Pendukung Keputusan |
+| 2 | MCDM | WSM & WPM |
+| 3 | AHP Benefit | Analytical Hierarchy Process |
+| 4 | AHP Cost | Cost Criteria |
+| 6 | ROC & EDAS | Perangkingan Alternatif |
+| 7 | MARCOS | Compromise Solution |
+| 9 | MEREC | Removal Effects of Criteria |
+| 10 | GDSS | Group Decision Support System |
+| 11-12 | Fuzzy | Fuzzy Logic pada SPK |
 
-### Minggu 3 — AHP Benefit
-- Analytical Hierarchy Process (AHP)
-- Studi kasus benefit criteria
-
-### Minggu 4 — AHP Cost
-- Perhitungan AHP untuk cost criteria
-- Konsistensi matriks
-
-### Minggu 6 — ROC dan EDAS
-- Rank Order Centroid (ROC)
-- Evaluation Based on Distance from Average Solution (EDAS)
-
-### Minggu 7 — MARCOS
-- Measurement Alternatives and Ranking according to Compromise Solution (MARCOS)
-
-### Minggu 9 — MEREC
-- Method based on the Removal Effects of Criteria (MEREC)
-
-### Minggu 10 — GDSS
-- Group Decision Support System (GDSS)
-
-### Minggu 11 & 12 — Fuzzy
-- Konsep logika fuzzy
-- Implementasi fuzzy dalam SPK
+</div>
 
 ---
 
-## 📂 Struktur Repository
+# 🧠 Metode yang Dipelajari
+
+## 🔹 AHP (Analytical Hierarchy Process)
+Metode pengambilan keputusan menggunakan pembobotan dan perbandingan berpasangan.
+
+## 🔹 WSM & WPM
+Metode perhitungan nilai alternatif berdasarkan bobot kriteria.
+
+## 🔹 ROC
+Metode pembobotan berdasarkan ranking prioritas.
+
+## 🔹 EDAS
+Evaluasi alternatif berdasarkan jarak rata-rata solusi.
+
+## 🔹 MARCOS
+Metode perangkingan alternatif berbasis solusi kompromi.
+
+## 🔹 MEREC
+Metode objektif berdasarkan pengaruh penghapusan kriteria.
+
+## 🔹 Fuzzy
+Pendekatan logika samar dalam pengambilan keputusan.
+
+---
+
+# 📂 Struktur Repository
 
 ```bash
 SISTEM-PENDUKUNG-KEPUTUSAN-SPK/
